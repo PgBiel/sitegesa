@@ -2,5 +2,5 @@
 title: "Posts por Categoria"
 layout: categories
 permalink: /categorias/
-author_profile: true
+author_profile: false
 ---
